@@ -94,7 +94,6 @@ app.post('/ok',async(req,res)=>{
          
      }
 
-    res.status(200).send({"message":one})
 })
 
 
